@@ -589,6 +589,12 @@ footer{
         text-align: center;
     }
     
+    .shop{
+        height: 30px;
+        margin-right: 0rem;
+        margin-top: 4px;
+    }
+    
 }
 
 @media (max-width:550px) {
@@ -633,11 +639,6 @@ footer{
     }
 
 
-    .shop{
-        height: 10px;
-        margin-right: 0rem;
-        margin-top: 4px;
-    }
 
     
 
